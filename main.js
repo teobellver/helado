@@ -1,4 +1,4 @@
 function MyFunction(){
-    getElementsByClassName(codigoMostrar) = x
-    x = "lo que quieras"
+    getElementsByClassName(codigoMostrar) = x;
+    console.log(x);
 }
